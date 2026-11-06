@@ -51,7 +51,7 @@ resist     «давай ещё одну систему инвентаря»
 ```
 
 <p align="center">
-  Связь: <a href="mailto:MASh4p@mail.ru">MASh4p@mail.ru</a>
+  Связь: <a href="mailto:mashap.dev@gmail.com">mashap.dev@gmail.com</a>
   &middot;
   <a href="https://github.com/MASh4p">github.com/MASh4p</a>
 </p>
