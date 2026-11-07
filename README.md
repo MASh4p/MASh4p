@@ -24,7 +24,8 @@
 | Предмет | Эффект |
 | :--- | :--- |
 | **[ItchDB](https://github.com/MASh4p/ItchDB)** | Локальное веб-приложение на C# и .NET 10, которое собирает публичные страницы itch.io и считает по ним медианы, шансы, конкуренцию и тренды. [Превью](https://mash4p.github.io/ItchDB/) |
-| **[YandexGamesDB](https://github.com/MASh4p/YandexGamesDB)** | .NET, анализирует каталог Яндекс Игр и считает спрос по жанрам, тегам, GQ, отзывы, инапы, платформы, описание, медианы, индекс перспективы. |
+| **[SteamDbAnalytics](https://github.com/MASh4p/SteamDbAnalytics)** | .NET, Локальное приложение для разбора магазина Steam: собирает карточки игр, считает сегменты и показывает, где спрос выше конкуренции. |
+| **[YandexGamesDB](https://github.com/MASh4p/YandexGamesDB)** | .NET, Анализирует каталог Яндекс Игр и считает спрос по жанрам, тегам, GQ, отзывы, инапы, платформы, описание, медианы, индекс перспективы. |
 | **[PostupiCalc](https://github.com/MASh4p/PostupiCalc)** | Считает зачисление в вуз по CSV с Госуслуг. [Использовать](https://MASh4p.github.io/PostupiCalc/) |
 | **[OneClickSend](https://github.com/MASh4p/OneClickSend)** | Android-ульт: одно нажатие — фото улетает в Telegram или ВК. |
 | **[personal-vpn](https://github.com/MASh4p/personal-vpn)** | Бафф невидимости для выбранных приложений. свой WireGuard, не чужой «бесплатный VPN». |
